@@ -1,8 +1,8 @@
 package com.joymeter.weixin.bean;
 
 public class Weixin {
-	   
-    public static final String token = "";
+    //需要在微信平台设置	   
+    public static final String token = "";//令牌
     public static final String appId = "";
     public static final String appSecret = "";
     public static final String apiKey = "";
